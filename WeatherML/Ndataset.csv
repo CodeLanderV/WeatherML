@@ -1,0 +1,21 @@
+Temperature,Season,Humidity,Cloudy,Windspeed,AtmosphericPressure,Region,WeatherCondition
+28,Summer,65,1,15,1012,North,No Rain
+31,Summer,60,0,10,1010,North,No Rain
+24,Monsoon,85,1,20,1005,South,Heavy Rain
+22,Monsoon,90,1,25,1003,South,Heavy Rain
+26,Post-Monsoon,75,1,15,1011,East,Light Rain
+20,Winter,70,0,5,1020,West,No Rain
+25,Summer,60,0,10,1013,North,No Rain
+23,Monsoon,80,1,20,1006,South,Heavy Rain
+21,Monsoon,88,1,15,1004,South,Heavy Rain
+27,Post-Monsoon,70,0,10,1012,East,No Rain
+19,Winter,65,0,5,1021,West,No Rain
+29,Summer,55,0,15,1010,North,No Rain
+24,Monsoon,82,1,20,1005,South,Heavy Rain
+19,Winter,68,1,5,1022,West,No Rain
+26,Post-Monsoon,65,1,10,1011,East,Light Rain
+30,Summer,60,0,12,1010,North,Thunderstorm
+22,Winter,75,1,8,1023,West,Snow Fall
+25,Monsoon,85,1,18,1007,South,Hail Storm
+28,Post-Monsoon,70,0,14,1012,East,Light Rain
+21,Winter,68,1,6,1020,West,No Rain
