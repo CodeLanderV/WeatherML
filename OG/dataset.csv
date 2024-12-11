@@ -1,0 +1,16 @@
+Temperature,Season,Humidity,Cloudy,Windspeed,Rain
+28,Summer,65,1,15,0
+31,Summer,60,0,10,0
+24,Monsoon,85,1,20,1
+22,Monsoon,90,1,25,1
+26,Post-Monsoon,75,1,15,1
+20,Winter,70,0,5,0
+25,Summer,60,0,10,0
+23,Monsoon,80,1,20,1
+21,Monsoon,88,1,15,1
+27,Post-Monsoon,70,0,10,0
+19,Winter,65,0,5,0
+29,Summer,55,0,15,0
+24,Monsoon,82,1,20,1
+19,Winter,68,1,5,0
+26,Post-Monsoon,65,1,10,1
